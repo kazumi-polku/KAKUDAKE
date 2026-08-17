@@ -1,17 +1,13 @@
-# Myリスト作り カクダケ2026 LP
+# Myリスト作り カクダケ2026 LP v3
 
-GitHub Pagesで公開できる静的LPです。
+GitHub Pages向け静的LPです。
 
-## 構成
-- `index.html`
-- `style.css`
-- `script.js`
-- `assets/hero.jpg`
+## ファイル
+- index.html
+- style.css
+- script.js
+- assets/hero-2026.png
+- assets/ideas.png
+- assets/lifestyle-collage.png
 
-## GitHub Pages公開
-1. このフォルダの内容をGitHubリポジトリにpush
-2. GitHubの `Settings` → `Pages`
-3. `Deploy from a branch` を選択
-4. 公開ブランチ（例: `main`）と `/ (root)` を指定
-
-申込みボタンはGoogleフォームにリンクしています。
+既存のGitHub Pagesへ反映する場合は、このフォルダ内のファイルで同名ファイルを置き換え、`assets` 内の3画像を追加してください。
